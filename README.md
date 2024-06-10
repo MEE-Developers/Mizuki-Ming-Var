@@ -1,7 +1,3 @@
-## 后续计划
-「水木明体变体/水木明體變體/Mizuki-Ming-Var/水木明朝変態」将在后续发布，该版本将摒弃特殊字形（如幺、令等），仅保留一般特征（直点、挑捺、八屋根、断笔等），减少纯G标用户阅读压力。
-> [!IMPORTANT]
-
 # Mizuki Ming Var / 水木明体变体 / 水木明朝変態
 
 A Chinese sans-serif font derived from IPAex Mincho and IPAmj Mincho. 「IPAex明朝」「IPAmj明朝」衍生中文字型。
